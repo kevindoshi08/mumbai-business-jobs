@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="description" content="Open HR, administration, executive assistant, operations, management, and sales and marketing roles in Mumbai or remote from India.">
+<title>__TITLE__</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230d6b58'/%3E%3Cpath d='M9 12h14v11H9z' fill='none' stroke='white' stroke-width='2.2' stroke-linejoin='round'/%3E%3Cpath d='M13 12V9.5h6V12' fill='none' stroke='white' stroke-width='2.2' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root {
+  --bg: #f4f3ee;
+  --surface: #fffefb;
+  --raised: #faf9f5;
+  --ink: #1b1e1c;
+  --muted: #565d59;
+  --line: #e1dfd6;
+  --line-strong: #cfccc1;
+  --accent: #0d6b58;
+  --accent-hover: #0a5848;
+  --accent-soft: #e0efe9;
+  --accent-line: #b9dccf;
+  --stretch-bg: #f8eed6;
+  --stretch-ink: #74500a;
+  --danger: #a3341f;
+  --radius: 12px;
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.5 var(--font);
+  font-feature-settings: "tnum" 0;
+}
+::selection { background: var(--accent-soft); color: var(--ink); }
+a { color: var(--accent); text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent-hover); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+button, input { font: inherit; color: inherit; }
+.wrap { width: min(1040px, 100% - 32px); margin-inline: auto; }
+
+header.top { padding: 36px 0 20px; }
+h1 { font-size: 1.75rem; line-height: 1.2; letter-spacing: -0.02em; margin: 0 0 6px; text-wrap: balance; }
+.lede { margin: 0; color: var(--muted); max-width: 68ch; }
+.updated { margin: 10px 0 0; font-size: 0.875rem; color: var(--muted); }
+.updated strong { color: var(--ink); font-weight: 600; }
+
+.controls {
+  position: sticky; top: 0; z-index: 5;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(1.2) blur(8px);
+  -webkit-backdrop-filter: saturate(1.2) blur(8px);
+  padding: 12px 0 10px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 160ms ease-out;
+}
+.controls.stuck { border-bottom-color: var(--line); }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.search { position: relative; flex: 1 1 260px; min-width: 0; }
+.search svg { position: absolute; left: 12px; top: 50%; translate: 0 -50%; width: 17px; height: 17px; color: var(--muted); pointer-events: none; }
+.search input {
+  width: 100%; height: 40px; padding: 0 12px 0 38px;
+  border: 1px solid var(--line-strong); border-radius: 10px; background: var(--surface);
+  transition: border-color 150ms ease-out, box-shadow 150ms ease-out;
+}
+.search input::placeholder { color: #6b716d; }
+.search input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+
+.seg { display: inline-flex; padding: 3px; background: #e9e7df; border-radius: 10px; }
+.seg button {
+  border: 0; background: transparent; height: 34px; padding: 0 14px; border-radius: 8px; cursor: pointer;
+  color: var(--muted); font-weight: 550; transition: background 150ms ease-out, color 150ms ease-out;
+}
+.seg button:hover { color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgb(27 30 28 / 0.12); }
+
+.pill {
+  display: inline-flex; align-items: center; gap: 7px; height: 40px; padding: 0 13px;
+  border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); cursor: pointer;
+  color: var(--muted); font-weight: 550; user-select: none;
+  transition: background 150ms ease-out, border-color 150ms ease-out, color 150ms ease-out;
+}
+.pill:hover { border-color: var(--muted); color: var(--ink); }
+.pill input { position: absolute; opacity: 0; pointer-events: none; }
+.pill .box { width: 16px; height: 16px; border-radius: 5px; border: 1.5px solid currentColor; display: grid; place-items: center; }
+.pill .box svg { width: 11px; height: 11px; opacity: 0; }
+.pill:has(input:checked) { background: var(--accent-soft); border-color: var(--accent-line); color: var(--accent-hover); }
+.pill:has(input:checked) .box { background: var(--accent); border-color: var(--accent); color: #fff; }
+.pill:has(input:checked) .box svg { opacity: 1; }
+.pill:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.tabs { display: flex; gap: 6px; overflow-x: auto; padding: 10px 0 2px; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex: none; display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 13px;
+  border: 1px solid transparent; border-radius: 9px; background: transparent; cursor: pointer; color: var(--muted);
+  font-weight: 600; transition: background 150ms ease-out, color 150ms ease-out;
+}
+.tab:hover { background: #ebe9e2; color: var(--ink); }
+.tab[aria-pressed="true"] { background: var(--ink); color: #fbfaf6; }
+.tab .n { font-variant-numeric: tabular-nums; font-weight: 500; font-size: 0.8125rem; opacity: 0.75; }
+.tab[disabled] { opacity: 0.45; cursor: default; background: transparent; }
+
+.summary { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; margin: 18px 0 10px; color: var(--muted); font-size: 0.875rem; }
+.summary strong { color: var(--ink); font-variant-numeric: tabular-nums; }
+.linkish { border: 0; background: none; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+.linkish:hover { color: var(--accent-hover); }
+
+.list { list-style: none; margin: 0; padding: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.job { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 20px; padding: 15px 18px; border-top: 1px solid var(--line); transition: background 150ms ease-out; }
+.job:first-child { border-top: 0; }
+.job:hover { background: var(--raised); }
+.job.is-applied .title { color: var(--muted); }
+.job.is-hidden { background: #f3f1ea; }
+.title { font-size: 1rem; font-weight: 650; line-height: 1.35; color: var(--ink); text-decoration: none; letter-spacing: -0.005em; }
+.title:hover { color: var(--accent); text-decoration: underline; }
+.title svg { width: 13px; height: 13px; margin-left: 5px; vertical-align: -1px; color: var(--muted); }
+.who { margin-top: 2px; color: var(--muted); font-size: 0.9rem; overflow-wrap: anywhere; }
+.who .co { color: var(--ink); font-weight: 550; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.tag { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 6px; font-size: 0.75rem; font-weight: 600; background: #eeece5; color: #4b524e; }
+.tag.new { background: var(--accent); color: #fff; }
+.tag.stretch { background: var(--stretch-bg); color: var(--stretch-ink); }
+.tag.remote { background: var(--accent-soft); color: var(--accent-hover); }
+.side { display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between; gap: 10px; text-align: right; }
+.when { font-size: 0.8125rem; color: var(--muted); white-space: nowrap; }
+.when b { display: block; color: var(--ink); font-weight: 600; }
+.actions { display: flex; gap: 6px; }
+.act {
+  display: inline-flex; align-items: center; gap: 5px; height: 30px; padding: 0 10px; border-radius: 8px; white-space: nowrap;
+  border: 1px solid var(--line-strong); background: var(--surface); cursor: pointer; font-size: 0.8125rem; font-weight: 600; color: var(--muted);
+  transition: background 150ms ease-out, border-color 150ms ease-out, color 150ms ease-out;
+}
+.act svg { width: 13px; height: 13px; }
+.act:hover { border-color: var(--muted); color: var(--ink); }
+.act[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+.empty { padding: 44px 24px; text-align: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.empty h2 { font-size: 1.05rem; margin: 0 0 4px; }
+.empty p { margin: 0 auto 14px; color: var(--muted); max-width: 52ch; }
+.btn { height: 38px; padding: 0 16px; border-radius: 9px; border: 0; background: var(--ink); color: #fbfaf6; font-weight: 600; cursor: pointer; }
+.btn:hover { background: #333834; }
+
+section.more { margin: 44px 0 0; }
+section.more h2 { font-size: 1.125rem; margin: 0 0 4px; letter-spacing: -0.01em; }
+section.more > p { margin: 0 0 14px; color: var(--muted); max-width: 70ch; }
+.sites { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; font-size: 0.9rem; }
+.sites th, .sites td { text-align: left; padding: 11px 16px; border-top: 1px solid var(--line); vertical-align: top; }
+.sites tr:first-child th, .sites tr:first-child td { border-top: 0; }
+.sites th { width: 190px; font-weight: 600; }
+.term { display: block; margin-bottom: 4px; }
+.term:last-child { margin-bottom: 0; }
+.term span { color: var(--muted); margin-right: 6px; }
+.term a { margin-right: 10px; white-space: nowrap; }
+
+footer { margin: 40px 0 56px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; }
+footer p { margin: 0 0 8px; max-width: 80ch; }
+.warn { color: var(--danger); }
+
+.skeleton { height: 76px; border-top: 1px solid var(--line); background: linear-gradient(90deg, transparent, #f1efe8, transparent) 0 0 / 200% 100%; animation: shimmer 1.2s linear infinite; }
+@keyframes shimmer { to { background-position: -200% 0; } }
+
+@media (max-width: 720px) {
+  header.top { padding-top: 24px; }
+  h1 { font-size: 1.45rem; }
+  .controls { position: static; backdrop-filter: none; -webkit-backdrop-filter: none; background: var(--bg); padding-bottom: 4px; }
+  .row.options { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+  .row.options::-webkit-scrollbar { display: none; }
+  .job { grid-template-columns: 1fr; padding: 14px; }
+  .side { flex-direction: row; align-items: center; text-align: left; }
+  .when b { display: inline; margin-right: 6px; }
+  .seg { flex: 1 1 100%; }
+  .seg button { flex: 1; }
+  .pill { flex: none; height: 36px; padding: 0 11px; font-size: 0.875rem; }
+  .sites th { display: block; width: auto; padding-bottom: 2px; }
+  .sites td { display: block; border-top: 0; padding-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1 id="page-title">__TITLE__</h1>
+    <p class="lede">Open roles in HR, administration, executive assistance, operations, management, and sales and marketing. Every role is in the Mumbai region or remote from India, and each link opens the original posting.</p>
+    <p class="updated" id="updated"></p>
+  </div>
+</header>
+
+<div class="controls" id="controls">
+  <div class="wrap">
+    <div class="row">
+      <label class="search">
+        <svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" stroke="currentColor" stroke-width="1.7"/><path d="m13 13 4 4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+        <input id="q" type="search" placeholder="Search role, company, or area" autocomplete="off" aria-label="Search role, company, or area">
+      </label>
+      <div class="seg" role="group" aria-label="Location">
+        <button type="button" data-place="all" aria-pressed="true">All</button>
+        <button type="button" data-place="mumbai" aria-pressed="false">Mumbai</button>
+        <button type="button" data-place="remote" aria-pressed="false">Remote</button>
+      </div>
+    </div>
+    <div class="row options" style="margin-top:8px">
+      <label class="pill"><input type="checkbox" id="opt-new"><span class="box"><svg viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="m2.5 6.2 2.3 2.3 4.7-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>New only</label>
+      <label class="pill"><input type="checkbox" id="opt-fit"><span class="box"><svg viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="m2.5 6.2 2.3 2.3 4.7-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Hide stretch roles</label>
+      <label class="pill"><input type="checkbox" id="opt-applied"><span class="box"><svg viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="m2.5 6.2 2.3 2.3 4.7-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Hide applied</label>
+    </div>
+    <nav class="tabs" id="tabs" aria-label="Role type"></nav>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="summary" id="summary" aria-live="polite"></div>
+  <ul class="list" id="list" aria-label="Job openings"><li class="skeleton"></li><li class="skeleton"></li><li class="skeleton"></li></ul>
+  <div class="empty" id="empty" hidden>
+    <h2 id="empty-title">No roles match these filters</h2>
+    <p id="empty-text">Try another role type or location, or clear the search.</p>
+    <button class="btn" type="button" id="clear">Clear filters</button>
+  </div>
+
+  <section class="more" aria-labelledby="more-title">
+    <h2 id="more-title">Search the big job sites</h2>
+    <p>LinkedIn, Naukri, and Indeed are not copied into this page. These links open their live searches for the same roles in Mumbai, limited to recent postings where the site allows it.</p>
+    <table class="sites" id="sites"></table>
+  </section>
+
+  <footer>
+    <p id="sources"></p>
+    <p>Stretch roles carry a manager or lead title and may ask for more experience. Roles that clearly ask for more than five years are left out. Applied and hidden marks are saved only in this browser.</p>
+  </footer>
+</main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(() => {
+  "use strict";
+  const DATA = JSON.parse(document.getElementById("data").textContent);
+  const FAMILIES = DATA.families || [];
+  const FAMILY_LABEL = Object.fromEntries(FAMILIES.map(f => [f.id, f.label]));
+  const DAY = 86400000;
+  const NOW = Date.now();
+  const store = {
+    read(name) { try { return new Set(JSON.parse(localStorage.getItem("mbj." + name) || "[]")); } catch { return new Set(); } },
+    write(name, set) { try { localStorage.setItem("mbj." + name, JSON.stringify([...set])); } catch { /* storage unavailable */ } }
+  };
+  const applied = store.read("applied");
+  const hidden = store.read("hidden");
+  const state = { family: "all", place: "all", q: "", fresh: false, fit: false, hideApplied: false, showHidden: false };
+
+  const $ = id => document.getElementById(id);
+  const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+  const svg = (markup) => { const t = document.createElement("template"); t.innerHTML = markup.trim(); return t.content.firstChild; };
+  const ICON_OUT = '<svg viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M5.5 2.5h-3v9h9v-3M8 2.5h3.5V6M11.3 2.7 6.5 7.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const ICON_CHECK = '<svg viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="m3 7.3 2.6 2.6L11 4.4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  const ist = (iso, opts) => new Intl.DateTimeFormat("en-IN", Object.assign({ timeZone: "Asia/Kolkata" }, opts)).format(new Date(iso));
+  const istDay = ms => Math.floor((ms + 19800000) / DAY);
+  const daysAgo = iso => iso ? istDay(NOW) - istDay(Date.parse(iso)) : null;
+  const relDay = iso => {
+    const d = daysAgo(iso);
+    if (d == null || Number.isNaN(d)) return "";
+    if (d <= 0) return "Today";
+    if (d === 1) return "Yesterday";
+    if (d < 30) return d + " days ago";
+    return ist(iso, { day: "numeric", month: "short" });
+  };
+  const isNew = j => {
+    const n = DATA.new_days || 3;
+    const posted = j.posted_at ? (NOW - Date.parse(j.posted_at)) / DAY : null;
+    const found = (NOW - Date.parse(j.first_seen)) / DAY;
+    return (posted != null && posted <= n) || (!j.baseline && found <= n);
+  };
+  DATA.jobs.forEach(j => {
+    j._new = isNew(j);
+    j._text = [j.title, j.company, j.location, FAMILY_LABEL[j.family] || ""].join(" ").toLowerCase();
+  });
+
+  function readHash() {
+    const p = new URLSearchParams(location.hash.slice(1));
+    if (p.get("type") && (p.get("type") === "all" || FAMILY_LABEL[p.get("type")])) state.family = p.get("type");
+    if (["all", "mumbai", "remote"].includes(p.get("where"))) state.place = p.get("where");
+    state.q = p.get("q") || "";
+    state.fresh = p.get("new") === "1";
+    state.fit = p.get("fit") === "1";
+    state.hideApplied = p.get("hideapplied") === "1";
+  }
+  function writeHash() {
+    const p = new URLSearchParams();
+    if (state.family !== "all") p.set("type", state.family);
+    if (state.place !== "all") p.set("where", state.place);
+    if (state.q) p.set("q", state.q);
+    if (state.fresh) p.set("new", "1");
+    if (state.fit) p.set("fit", "1");
+    if (state.hideApplied) p.set("hideapplied", "1");
+    const h = p.toString();
+    history.replaceState(null, "", h ? "#" + h : location.pathname + location.search);
+  }
+
+  function passes(j, ignoreFamily) {
+    if (!ignoreFamily && state.family !== "all" && j.family !== state.family) return false;
+    if (state.place !== "all" && !(j.places || []).includes(state.place)) return false;
+    if (state.fresh && !j._new) return false;
+    if (state.fit && j.level === "stretch") return false;
+    if (state.hideApplied && applied.has(j.key)) return false;
+    if (!state.showHidden && hidden.has(j.key)) return false;
+    if (state.q) {
+      const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+      if (!words.every(w => j._text.includes(w))) return false;
+    }
+    return true;
+  }
+
+  function renderTabs() {
+    const tabs = $("tabs");
+    tabs.textContent = "";
+    const base = DATA.jobs.filter(j => passes(j, true));
+    const counts = { all: base.length };
+    FAMILIES.forEach(f => { counts[f.id] = base.filter(j => j.family === f.id).length; });
+    [{ id: "all", label: "All roles" }].concat(FAMILIES).forEach(f => {
+      const b = el("button", "tab");
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.family === f.id));
+      b.append(el("span", "", f.label), el("span", "n", String(counts[f.id] || 0)));
+      b.addEventListener("click", () => { state.family = f.id; update(); });
+      tabs.append(b);
+    });
+  }
+
+  function jobRow(j) {
+    const li = el("li", "job");
+    if (applied.has(j.key)) li.classList.add("is-applied");
+    if (hidden.has(j.key)) li.classList.add("is-hidden");
+    const main = el("div", "main");
+    const a = el("a", "title", j.title);
+    a.href = j.url; a.target = "_blank"; a.rel = "noopener noreferrer";
+    a.append(svg(ICON_OUT));
+    const who = el("div", "who");
+    who.append(el("span", "co", j.company), document.createTextNode(" · " + (j.location || "Location not listed")));
+    const tags = el("div", "tags");
+    if (j._new) tags.append(el("span", "tag new", "New"));
+    if (state.family === "all") tags.append(el("span", "tag", FAMILY_LABEL[j.family] || j.family));
+    if ((j.places || []).includes("remote")) tags.append(el("span", "tag remote", "Remote"));
+    if (j.level === "stretch") tags.append(el("span", "tag stretch", "Stretch"));
+    if (j.years != null) tags.append(el("span", "tag", j.years === 0 ? "Freshers OK" : "Asks " + j.years + "+ yrs"));
+    main.append(a, who, tags);
+
+    const side = el("div", "side");
+    const when = el("div", "when");
+    const label = j.posted_at ? relDay(j.posted_at) : "Found " + relDay(j.first_seen).toLowerCase();
+    when.append(el("b", "", label), document.createTextNode("via " + j.via));
+    const actions = el("div", "actions");
+    const ap = el("button", "act");
+    ap.type = "button";
+    const isApplied = applied.has(j.key);
+    ap.setAttribute("aria-pressed", String(isApplied));
+    ap.title = "Saved in this browser";
+    if (isApplied) ap.append(svg(ICON_CHECK));
+    ap.append(document.createTextNode(isApplied ? "Applied" : "Mark applied"));
+    ap.setAttribute("aria-label", (isApplied ? "Applied: " : "Mark applied: ") + j.title);
+    ap.addEventListener("click", () => { toggle(applied, "applied", j.key); });
+    const hd = el("button", "act", hidden.has(j.key) ? "Unhide" : "Hide");
+    hd.type = "button";
+    hd.setAttribute("aria-label", (hidden.has(j.key) ? "Unhide " : "Hide ") + j.title);
+    hd.addEventListener("click", () => { toggle(hidden, "hidden", j.key); });
+    actions.append(ap, hd);
+    side.append(when, actions);
+    li.append(main, side);
+    return li;
+  }
+
+  function toggle(set, name, key) {
+    if (set.has(key)) set.delete(key); else set.add(key);
+    store.write(name, set);
+    update(true);
+  }
+
+  function renderSummary(shown) {
+    const s = $("summary");
+    s.textContent = "";
+    const newCount = shown.filter(j => j._new).length;
+    const line = el("span");
+    line.append(el("strong", "", String(shown.length)), document.createTextNode(shown.length === 1 ? " role" : " roles"));
+    if (newCount) line.append(document.createTextNode(" · "), el("strong", "", String(newCount)), document.createTextNode(" new"));
+    s.append(line);
+    const hiddenHere = DATA.jobs.filter(j => hidden.has(j.key)).length;
+    if (hiddenHere) {
+      const b = el("button", "linkish", state.showHidden ? "Hide the " + hiddenHere + " hidden" : "Show " + hiddenHere + " hidden");
+      b.type = "button";
+      b.addEventListener("click", () => { state.showHidden = !state.showHidden; update(true); });
+      s.append(b);
+    }
+  }
+
+  function update(keepScroll) {
+    const list = $("list");
+    const shown = DATA.jobs.filter(j => passes(j, false));
+    renderTabs();
+    renderSummary(shown);
+    list.textContent = "";
+    const frag = document.createDocumentFragment();
+    shown.forEach(j => frag.append(jobRow(j)));
+    list.append(frag);
+    list.hidden = shown.length === 0;
+    const empty = $("empty");
+    empty.hidden = shown.length !== 0;
+    if (!DATA.jobs.length) {
+      $("empty-title").textContent = "No roles yet";
+      $("empty-text").textContent = "The list fills after the next refresh. The job-site searches below work right now.";
+      $("clear").hidden = true;
+    }
+    document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.place === state.place)));
+    $("opt-new").checked = state.fresh;
+    $("opt-fit").checked = state.fit;
+    $("opt-applied").checked = state.hideApplied;
+    if ($("q").value !== state.q) $("q").value = state.q;
+    writeHash();
+    if (!keepScroll && window.scrollY > $("controls").offsetTop) window.scrollTo({ top: $("controls").offsetTop });
+  }
+
+  function renderSites() {
+    const t = $("sites");
+    (DATA.search_links || []).forEach(group => {
+      const tr = el("tr");
+      tr.append(el("th", "", FAMILY_LABEL[group.family] || group.family));
+      const td = el("td");
+      group.links.forEach(l => {
+        const line = el("span", "term");
+        line.append(el("span", "", l.term));
+        [["LinkedIn", l.linkedin], ["Naukri", l.naukri], ["Indeed", l.indeed], ["LinkedIn remote", l.linkedin_remote]].forEach(([name, href]) => {
+          const a = el("a", "", name); a.href = href; a.target = "_blank"; a.rel = "noopener noreferrer"; line.append(a);
+        });
+        td.append(line);
+      });
+      tr.append(td);
+      t.append(tr);
+    });
+  }
+
+  function renderMeta() {
+    const u = $("updated");
+    u.append(document.createTextNode("Updated "), el("strong", "", ist(DATA.updated_at, { day: "numeric", month: "short", hour: "numeric", minute: "2-digit" }) + " IST"));
+    if (DATA.schedule) u.append(document.createTextNode(" · " + DATA.schedule));
+    const parts = (DATA.sources || []).map(s => s.name === "Company career sites" ? s.checked + " company career sites" : s.name);
+    const failed = (DATA.sources || []).flatMap(s => s.failed || []);
+    const p = $("sources");
+    p.append(document.createTextNode("Sources: " + parts.join(", ") + ". "));
+    if (failed.length) p.append(el("span", "warn", failed.length + " could not be checked in the last update: " + failed.join(", ") + ". Their earlier roles stay listed for up to three days."));
+  }
+
+  readHash();
+  $("q").addEventListener("input", e => { state.q = e.target.value.trim(); update(true); });
+  document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => { state.place = b.dataset.place; update(); }));
+  $("opt-new").addEventListener("change", e => { state.fresh = e.target.checked; update(); });
+  $("opt-fit").addEventListener("change", e => { state.fit = e.target.checked; update(); });
+  $("opt-applied").addEventListener("change", e => { state.hideApplied = e.target.checked; update(); });
+  $("clear").addEventListener("click", () => { Object.assign(state, { family: "all", place: "all", q: "", fresh: false, fit: false, hideApplied: false }); update(); });
+  const controls = $("controls");
+  new IntersectionObserver(([e]) => controls.classList.toggle("stuck", e.intersectionRatio < 1), { threshold: [1], rootMargin: "-1px 0px 0px 0px" }).observe(controls);
+  renderMeta();
+  renderSites();
+  update(true);
+})();
+</script>
+</body>
+</html>

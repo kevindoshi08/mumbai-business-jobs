@@ -1,0 +1,58 @@
+name: Refresh job board
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 9:00 am IST
+    - cron: "30 12 * * *"  # 6:00 pm IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tracker.py
+      - config.json
+      - dashboard.html
+      - .github/workflows/refresh.yml
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-job-board
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Find roles and rebuild the dashboard
+        run: python3 tracker.py run -v
+
+      - name: Save job history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json
+          if git diff --cached --quiet; then
+            echo "Job history unchanged"
+          else
+            git commit -m "Refresh jobs $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v5

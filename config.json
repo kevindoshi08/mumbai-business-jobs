@@ -1,0 +1,125 @@
+{
+  "title": "Mumbai & remote business jobs",
+  "families": [
+    {"id": "hr", "label": "HR"},
+    {"id": "admin", "label": "Administration"},
+    {"id": "ea", "label": "Executive assistant"},
+    {"id": "ops", "label": "Operations"},
+    {"id": "management", "label": "Management"},
+    {"id": "sales", "label": "Sales & marketing"}
+  ],
+  "filters": {
+    "max_years_required": 5,
+    "max_age_days": 60,
+    "new_days": 3,
+    "forget_after_days": 45,
+    "detail_fetch_limit": 450
+  },
+  "schedule_label": "Refreshes around 9 am and 6 pm IST",
+  "sources": {
+    "workable": {
+      "enabled": true,
+      "pages": 2,
+      "mumbai_queries": [
+        "hr executive", "human resources", "talent acquisition", "recruiter",
+        "admin executive", "administration", "office manager", "front office",
+        "executive assistant", "personal assistant", "secretary",
+        "operations executive", "operations associate", "operations coordinator", "supply chain", "procurement",
+        "management trainee", "assistant manager", "project coordinator",
+        "business development", "sales executive", "inside sales", "key account", "relationship manager",
+        "marketing executive", "digital marketing", "brand", "social media", "customer success", "client servicing"
+      ],
+      "remote_queries": [
+        "executive assistant", "virtual assistant", "administrative assistant", "hr", "recruiter",
+        "operations", "sales", "business development", "marketing", "customer success"
+      ]
+    },
+    "amazon": {"enabled": true},
+    "himalayas": {
+      "enabled": true,
+      "pages": 2,
+      "queries": [
+        "executive assistant", "virtual assistant", "administrative assistant", "human resources", "recruiter",
+        "operations", "project coordinator", "sales", "business development", "marketing", "customer success"
+      ]
+    },
+    "remotive": {"enabled": true},
+    "jobicy": {"enabled": true, "geos": ["apac", "anywhere"]},
+    "workingnomads": {"enabled": true},
+    "weworkremotely": {
+      "enabled": true,
+      "feeds": [
+        "https://weworkremotely.com/categories/remote-sales-and-marketing-jobs.rss",
+        "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss",
+        "https://weworkremotely.com/categories/all-other-remote-jobs.rss"
+      ]
+    }
+  },
+  "oracle": [
+    {"name": "JPMorganChase", "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001", "location_id": "300000081151360", "location_label": "Mumbai, Maharashtra, India"}
+  ],
+  "workday": [
+    {"name": "Citi", "host": "citi.wd5.myworkdayjobs.com", "tenant": "citi", "site": "2"},
+    {"name": "Morgan Stanley", "host": "ms.wd5.myworkdayjobs.com", "tenant": "ms", "site": "External"},
+    {"name": "Deutsche Bank", "host": "db.wd3.myworkdayjobs.com", "tenant": "db", "site": "DBWebsite"},
+    {"name": "State Street", "host": "statestreet.wd1.myworkdayjobs.com", "tenant": "statestreet", "site": "Global"},
+    {"name": "BlackRock", "host": "blackrock.wd1.myworkdayjobs.com", "tenant": "blackrock", "site": "BlackRock_Professional"},
+    {"name": "Mastercard", "host": "mastercard.wd1.myworkdayjobs.com", "tenant": "mastercard", "site": "CorporateCareers"},
+    {"name": "Marsh McLennan", "host": "mmc.wd1.myworkdayjobs.com", "tenant": "mmc", "site": "MMC"},
+    {"name": "TransUnion", "host": "transunion.wd5.myworkdayjobs.com", "tenant": "transunion", "site": "TransUnion"},
+    {"name": "S&P Global", "host": "spgi.wd5.myworkdayjobs.com", "tenant": "spgi", "site": "SPGI_Careers"},
+    {"name": "LSEG", "host": "lseg.wd3.myworkdayjobs.com", "tenant": "lseg", "site": "Careers"},
+    {"name": "Morningstar", "host": "morningstar.wd5.myworkdayjobs.com", "tenant": "morningstar", "site": "Americas"},
+    {"name": "Thomson Reuters", "host": "thomsonreuters.wd5.myworkdayjobs.com", "tenant": "thomsonreuters", "site": "External_Career_Site"},
+    {"name": "Gartner", "host": "gartner.wd5.myworkdayjobs.com", "tenant": "gartner", "site": "EXT"},
+    {"name": "JLL", "host": "jll.wd1.myworkdayjobs.com", "tenant": "jll", "site": "jllcareers"},
+    {"name": "Maersk", "host": "maersk.wd3.myworkdayjobs.com", "tenant": "maersk", "site": "Maersk_Careers"},
+    {"name": "Mondelez", "host": "mdlz.wd3.myworkdayjobs.com", "tenant": "mdlz", "site": "External"},
+    {"name": "Mars", "host": "mars.wd3.myworkdayjobs.com", "tenant": "mars", "site": "External"},
+    {"name": "Diageo", "host": "diageo.wd3.myworkdayjobs.com", "tenant": "diageo", "site": "Diageo_Careers"},
+    {"name": "Kimberly-Clark", "host": "kimberlyclark.wd1.myworkdayjobs.com", "tenant": "kimberlyclark", "site": "GLOBAL"},
+    {"name": "Nike", "host": "nike.wd1.myworkdayjobs.com", "tenant": "nike", "site": "nke"},
+    {"name": "3M", "host": "3m.wd1.myworkdayjobs.com", "tenant": "3m", "site": "Search"},
+    {"name": "Abbott", "host": "abbott.wd5.myworkdayjobs.com", "tenant": "abbott", "site": "abbottcareers"},
+    {"name": "Novartis", "host": "novartis.wd3.myworkdayjobs.com", "tenant": "novartis", "site": "Novartis_Careers"},
+    {"name": "Pfizer", "host": "pfizer.wd1.myworkdayjobs.com", "tenant": "pfizer", "site": "PfizerCareers"},
+    {"name": "GSK", "host": "gsk.wd5.myworkdayjobs.com", "tenant": "gsk", "site": "GSKCareers"},
+    {"name": "Sanofi", "host": "sanofi.wd3.myworkdayjobs.com", "tenant": "sanofi", "site": "SanofiCareers"},
+    {"name": "Johnson & Johnson", "host": "jj.wd5.myworkdayjobs.com", "tenant": "jj", "site": "JJ"},
+    {"name": "AstraZeneca", "host": "astrazeneca.wd3.myworkdayjobs.com", "tenant": "astrazeneca", "site": "Careers"},
+    {"name": "MSD", "host": "msd.wd5.myworkdayjobs.com", "tenant": "msd", "site": "SearchJobs"},
+    {"name": "Medtronic", "host": "medtronic.wd1.myworkdayjobs.com", "tenant": "medtronic", "site": "MedtronicCareers"},
+    {"name": "BD", "host": "bdx.wd1.myworkdayjobs.com", "tenant": "bdx", "site": "EXTERNAL_CAREER_SITE_INDIA"},
+    {"name": "Stryker", "host": "stryker.wd1.myworkdayjobs.com", "tenant": "stryker", "site": "StrykerCareers"},
+    {"name": "Hitachi", "host": "hitachi.wd1.myworkdayjobs.com", "tenant": "hitachi", "site": "hitachi"},
+    {"name": "HP", "host": "hp.wd5.myworkdayjobs.com", "tenant": "hp", "site": "ExternalCareerSite"},
+    {"name": "Cisco", "host": "cisco.wd5.myworkdayjobs.com", "tenant": "cisco", "site": "Cisco_Careers"},
+    {"name": "Salesforce", "host": "salesforce.wd12.myworkdayjobs.com", "tenant": "salesforce", "site": "External_Career_Site"},
+    {"name": "Workday", "host": "workday.wd5.myworkdayjobs.com", "tenant": "workday", "site": "Workday"}
+  ],
+  "boards": [
+    {"name": "Paytm", "provider": "lever", "slug": "paytm"},
+    {"name": "Zeta", "provider": "lever", "slug": "zeta"},
+    {"name": "Meesho", "provider": "lever", "slug": "meesho"},
+    {"name": "CRED", "provider": "lever", "slug": "cred"},
+    {"name": "Spotify", "provider": "lever", "slug": "spotify"},
+    {"name": "Swiggy", "provider": "smartrecruiters", "slug": "swiggy"},
+    {"name": "InMobi", "provider": "greenhouse", "slug": "inmobi"},
+    {"name": "Groww", "provider": "greenhouse", "slug": "groww"},
+    {"name": "Glance", "provider": "greenhouse", "slug": "glance"},
+    {"name": "Databricks", "provider": "greenhouse", "slug": "databricks"},
+    {"name": "MongoDB", "provider": "greenhouse", "slug": "mongodb"},
+    {"name": "Okta", "provider": "greenhouse", "slug": "okta"},
+    {"name": "Datadog", "provider": "greenhouse", "slug": "datadog"},
+    {"name": "Elastic", "provider": "greenhouse", "slug": "elastic"},
+    {"name": "Snowflake", "provider": "ashby", "slug": "snowflake"}
+  ],
+  "search_links": [
+    {"family": "hr", "terms": ["HR Executive", "Talent Acquisition"]},
+    {"family": "admin", "terms": ["Admin Executive", "Office Administrator"]},
+    {"family": "ea", "terms": ["Executive Assistant", "Personal Assistant"]},
+    {"family": "ops", "terms": ["Operations Executive", "Operations Coordinator"]},
+    {"family": "management", "terms": ["Management Trainee", "Assistant Manager"]},
+    {"family": "sales", "terms": ["Business Development Executive", "Marketing Executive"]}
+  ]
+}
