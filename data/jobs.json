@@ -21,7 +21,7 @@
   "017dc612a1a7ccb8": {
    "checked": "2026-11-17T12:21:21+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "02960923d3768870": {
@@ -33,19 +33,19 @@
   "02b6d30ac8358139": {
    "checked": "2026-11-13T17:50:06+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "02fb84aebd9f5a05": {
    "checked": "2026-11-13T17:50:09+00:00",
    "location": "Kurukshetra, HR, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "03634df91ae30e47": {
    "checked": "2026-11-17T12:21:22+00:00",
    "location": "Rajahmundry, Andhra Pradhesh, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "04aa2f682f6013f6": {
@@ -81,13 +81,13 @@
   "0686d07d598c080f": {
    "checked": "2026-11-13T17:50:14+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "06ee1f2538b14473": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Remote - Ohio",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "0716e5f3edf8b54a": {
@@ -117,7 +117,7 @@
   "08e5cb2dedec3cd6": {
    "checked": "2026-11-13T17:50:12+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "092c71729fcada6b": {
@@ -129,7 +129,7 @@
   "09918e2de028a66a": {
    "checked": "2026-11-13T17:50:10+00:00",
    "location": "Srinagar, Jammu & Kashmir, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "09b033f5642380d7": {
@@ -141,13 +141,13 @@
   "0c2f68ddfb94976a": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "0c6088167a15ee3c": {
    "checked": "2026-11-13T17:50:18+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "0d087e74b380f744": {
@@ -165,7 +165,7 @@
   "0d7970d5682922a9": {
    "checked": "2026-11-13T17:50:07+00:00",
    "location": "Guntur, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "0dfa84988a11f51c": {
@@ -183,7 +183,7 @@
   "0e3173d7e31cd326": {
    "checked": "2026-11-24T14:11:06+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "0eb27915006b9803": {
@@ -213,19 +213,19 @@
   "100baab580dad276": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "10ee8b386e976bff": {
    "checked": "2026-11-13T17:50:10+00:00",
    "location": "Nizamabad, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "1119a0eb236a9c72": {
    "checked": "2026-11-24T14:11:06+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "113f1ad571ec7967": {
@@ -237,19 +237,19 @@
   "114c53e6f0b21cef": {
    "checked": "2026-11-13T17:50:06+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "117b45df4969c326": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Visakhapatnam, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "118aa1b0171118b4": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Remote - Georgia",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "12323da0a87683b3": {
@@ -297,13 +297,13 @@
   "16499c76923cb59a": {
    "checked": "2026-11-23T13:32:20+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "1700249308a1eccb": {
    "checked": "2026-11-13T17:50:13+00:00",
    "location": "Vijayawada, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "1761528ad8a99a2d": {
@@ -327,7 +327,7 @@
   "1871193dcfb4f15d": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "19392f30ca6f0e59": {
@@ -345,19 +345,19 @@
   "1b3866061c67b96f": {
    "checked": "2026-11-13T17:50:03+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "1b661eb3be231950": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Remote - Denmark; Stockholm, Sweden",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "1c3d31cbc78cd1cf": {
    "checked": "2026-11-13T17:50:04+00:00",
    "location": "Sangrur, PB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "1c6a942538bdec72": {
@@ -369,7 +369,7 @@
   "1d1ebe4d9ce9975c": {
    "checked": "2026-11-13T17:50:19+00:00",
    "location": "Visakhapatnam, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "1d29c079bf3b2851": {
@@ -393,7 +393,7 @@
   "1dbfbb44e15ac24d": {
    "checked": "2026-11-13T17:50:10+00:00",
    "location": "Ranchi, JH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "1e22f0ba335b0e32": {
@@ -405,13 +405,13 @@
   "1ead9bc97f3c3659": {
    "checked": "2026-11-13T17:50:19+00:00",
    "location": "Madanapalle, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "1f1c6f0e25cbe2f0": {
    "checked": "2026-11-19T12:02:24+00:00",
    "location": "Goa, Maharashtra, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "203cfb2f0ae5d364": {
@@ -429,7 +429,7 @@
   "21bca1c02c9ac0de": {
    "checked": "2026-11-18T12:07:50+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 1
   },
   "21fb9e8e6c21ad3a": {
@@ -441,7 +441,7 @@
   "228dcfbfdbf4e863": {
    "checked": "2026-11-13T17:50:06+00:00",
    "location": "Shillong, ML, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "22a2b7704aec9952": {
@@ -453,31 +453,31 @@
   "23a985a7654ae2ef": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "North Carolina, USA, Remote; Tennessee, USA, Remote; Charlotte; Raleigh; Remote - North Carolina; Remote - Tennessee",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "2643fcb85f8584fe": {
    "checked": "2026-11-13T17:50:12+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "2656c7a2bf6cecfd": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "26ab1565cd9c7121": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "India > Mumbai : Mumbai Development Center - EPD",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "270586932d5b9985": {
    "checked": "2026-11-16T22:26:14+00:00",
    "location": "Coimbatore, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "2806ee520ba700f9": {
@@ -489,7 +489,7 @@
   "28998af6956d3f1a": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Ahmedabad, GJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "292388f51037703f": {
@@ -501,19 +501,19 @@
   "2a1e4f1ef2df0022": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Remote - Georgia; Remote - Texas; Remote - Texas",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "2be9c0d333682f55": {
    "checked": "2026-11-16T22:26:14+00:00",
    "location": "Sangli Miraj Kupwad, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "2fbf15c157be6d49": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Bengaluru, India; Mumbai, India; Mumbai, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "3056e911ddbd96e4": {
@@ -525,19 +525,19 @@
   "307a120531f4d4d2": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote; Remote - Michigan; Remote - Ohio; Remote - Pennsylvania",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "30cfa2f62c1ef7ca": {
    "checked": "2026-11-17T12:21:21+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "31362de6317a2a25": {
    "checked": "2026-11-24T14:11:06+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "31fa083377402db5": {
@@ -555,7 +555,7 @@
   "32d19e5b3aba4d29": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "3359c9f03d02c242": {
@@ -567,13 +567,13 @@
   "3376d4696dc36aee": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "33e448ccc5e93df2": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; Bangalore",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "34f18328df069ab6": {
@@ -591,7 +591,7 @@
   "3996247b6cdd8f3c": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote; Chicago; Michigan; Ohio; Texas",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "39e3971adcfb84fa": {
@@ -615,7 +615,7 @@
   "3b7459682f868d81": {
    "checked": "2026-11-13T17:50:17+00:00",
    "location": "Haryana, UP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "3c49ad9892383570": {
@@ -627,13 +627,13 @@
   "3c5e7fad7ecc1a80": {
    "checked": "2026-11-13T17:50:17+00:00",
    "location": "Sikar, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "3c67a039dee117c4": {
    "checked": "2026-11-20T20:38:49+00:00",
    "location": "California Remote; Colorado Remote; San Francisco, CA, United States; US Remote West Coast",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 1
   },
   "3da7fef470cda99c": {
@@ -651,7 +651,7 @@
   "3fbfba2af89a77e9": {
    "checked": "2026-11-14T10:49:41+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "4059fdeb69f7fe92": {
@@ -663,7 +663,7 @@
   "4150c2378ba3ee8b": {
    "checked": "2026-11-13T17:50:14+00:00",
    "location": "Delhi, DL, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "436c7478152475f6": {
@@ -675,13 +675,13 @@
   "43fec04edc266bec": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Moradabad, UP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "45f71a03c7dae2a8": {
    "checked": "2026-11-23T13:32:20+00:00",
    "location": "Dehradun, UK, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "46147f2e90fc7e96": {
@@ -699,7 +699,7 @@
   "472266cce5cfd351": {
    "checked": "2026-11-13T17:50:16+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "483802467cd2dc1a": {
@@ -711,7 +711,7 @@
   "48d6019c42e0a819": {
    "checked": "2026-11-13T17:50:16+00:00",
    "location": "Kurnool, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "494e1de7b711ce74": {
@@ -735,13 +735,13 @@
   "4c425ab7425551f9": {
    "checked": "2026-11-13T17:50:18+00:00",
    "location": "Panipat, HR, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "4cfa4e394d8ef159": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "India - Mumbai",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "4d4703127135125e": {
@@ -765,13 +765,13 @@
   "4ee5063d3467ded1": {
    "checked": "2026-11-18T20:48:33+00:00",
    "location": "Florida, USA, Remote; North Carolina, USA, Remote; Boston; New York; Remote - Florida; Remote - North Carolina; Remote - Rhode Island",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "4f26aa678115a3d9": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Mumbai",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "4fcfc0dbaa03cb7f": {
@@ -783,7 +783,7 @@
   "503394920062aa53": {
    "checked": "2026-11-13T17:50:16+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "5082b68049e6b3e7": {
@@ -813,7 +813,7 @@
   "51a72e5129e9bb87": {
    "checked": "2026-11-13T17:50:20+00:00",
    "location": "Hyderabad, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "53dcb902b0d4acfe": {
@@ -831,19 +831,19 @@
   "5402752e56e442a9": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Bengaluru-VTP, India; Bengaluru-VTP",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "545f16e161bb8cbe": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Nashik, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "54867acfe30dd396": {
    "checked": "2026-11-13T17:50:08+00:00",
    "location": "Jodhpur, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "556e052058c4a4c1": {
@@ -861,7 +861,7 @@
   "56923ce3a64410fd": {
    "checked": "2026-11-13T17:50:12+00:00",
    "location": "Gwalior, MP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "56e98d2df1770004": {
@@ -891,7 +891,7 @@
   "58d151a93507e121": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Florida, USA, Remote; Remote - Florida",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "597808982eab974e": {
@@ -909,7 +909,7 @@
   "5b976c9f7fc31bde": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "India; Gurugram",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 8
   },
   "5c230fb161976547": {
@@ -927,13 +927,13 @@
   "5d4c5628a63b545e": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "5dd5a270bbd0d3c1": {
    "checked": "2026-11-18T20:48:33+00:00",
    "location": "Remote - Washington D.C.",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "5e1d41a81f02440d": {
@@ -945,7 +945,7 @@
   "5ea2909ac21aa6b1": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Jaipur, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "5f0cfff9a83711f9": {
@@ -957,7 +957,7 @@
   "5fb7fbf60e3cdebd": {
    "checked": "2026-11-17T21:12:47+00:00",
    "location": "Los Angeles, California; Remote - California; San Francisco, California; New Hampshire",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "5fecc757167d5531": {
@@ -969,13 +969,13 @@
   "60a6bc9d4ff0ffeb": {
    "checked": "2026-11-13T17:50:04+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "60c0bdb23fb55ffd": {
    "checked": "2026-11-13T17:50:03+00:00",
    "location": "Chandigarh, CH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "6112adf5460a90fc": {
@@ -987,13 +987,13 @@
   "6122f9bf29810247": {
    "checked": "2026-11-13T17:50:00+00:00",
    "location": "Ambur, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "628b8df7044b6ad8": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "India - Mumbai",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 1
   },
   "638a3f485fe15ce7": {
@@ -1029,13 +1029,13 @@
   "66776cfa3aa6b06d": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 10
   },
   "6844bcab9351ebed": {
    "checked": "2026-11-13T17:49:59+00:00",
    "location": "Mumbai, Maharashtra, India",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "685ef97b5cdfb54d": {
@@ -1047,7 +1047,7 @@
   "6984a7af1ad3b5a0": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Pune, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "6ab47c70efaf4cc7": {
@@ -1083,7 +1083,7 @@
   "6f68510f30f134f5": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "70b0f9c712746ed1": {
@@ -1107,7 +1107,7 @@
   "717110e35b25abb4": {
    "checked": "2026-11-13T17:50:12+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "7187b76292beb6d9": {
@@ -1167,7 +1167,7 @@
   "75e3fb628a09cc39": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "India - Mumbai",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "7616985e4d57696f": {
@@ -1185,7 +1185,7 @@
   "780eaed359341823": {
    "checked": "2026-11-13T17:50:17+00:00",
    "location": "Coimbatore, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "7871f6aef020136c": {
@@ -1203,7 +1203,7 @@
   "79479373783999ca": {
    "checked": "2026-11-17T21:12:47+00:00",
    "location": "Bathinda, PB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "796ed3bb7fa3c237": {
@@ -1215,19 +1215,19 @@
   "7a115b589a4cbf02": {
    "checked": "2026-11-13T17:50:09+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "7a4d68d3238a5b2f": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Vijayawada, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "7b51849347f917c0": {
    "checked": "2026-11-13T17:50:19+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "7bec6975e9d0c761": {
@@ -1251,19 +1251,19 @@
   "7c5c23d494919b4e": {
    "checked": "2026-11-13T17:50:03+00:00",
    "location": "Pune, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "7c9af15ab29a2c15": {
    "checked": "2026-11-13T17:50:13+00:00",
    "location": "Jaisalmer, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "7cb0bcd220469fb4": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; Bangalore",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "7d3b8f2ae53e7ffe": {
@@ -1275,13 +1275,13 @@
   "7da00e82d131e606": {
    "checked": "2026-11-19T20:54:40+00:00",
    "location": "Mumbai, India (Onsite Only)",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 8
   },
   "7f588513c68e5fc0": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "8004fd3adfda2e61": {
@@ -1329,13 +1329,13 @@
   "8498240006eeac88": {
    "checked": "2026-11-13T17:50:03+00:00",
    "location": "Ajmer, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "851062d3a90ee949": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Remote - Washington; Remote - California",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "85496ef346ec9ca9": {
@@ -1353,7 +1353,7 @@
   "864f4fbcd2dcf949": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "86b18db32b261ca7": {
@@ -1377,13 +1377,13 @@
   "86f8c9e6bee2ec24": {
    "checked": "2026-11-13T17:50:06+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "873b136762c6e6fb": {
    "checked": "2026-11-13T17:50:01+00:00",
    "location": "Goa, Maharashtra, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "87cf44429c64ddb5": {
@@ -1401,7 +1401,7 @@
   "88f3bda53525c0f6": {
    "checked": "2026-11-13T17:50:19+00:00",
    "location": "Ahmedabad, GJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "8a214adefcb4dd69": {
@@ -1419,7 +1419,7 @@
   "8a5efb6c34927f29": {
    "checked": "2026-11-13T17:50:00+00:00",
    "location": "Mumbai, India (Fully Onsite)",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "8ca4b326e8c00752": {
@@ -1437,7 +1437,7 @@
   "8da18c6dc04c936c": {
    "checked": "2026-11-13T17:50:10+00:00",
    "location": "Kota, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "8e5de4043395e565": {
@@ -1449,19 +1449,19 @@
   "8efe32fd4419206c": {
    "checked": "2026-11-13T17:50:09+00:00",
    "location": "Kota, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "8fc048ceaf2ceb7e": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Mumbai, India; India Remote",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 10
   },
   "906b706acdf81184": {
    "checked": "2026-11-13T17:50:18+00:00",
    "location": "Hisar, HR, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "918fe7358d73c288": {
@@ -1473,7 +1473,7 @@
   "9217a8eae6d8e002": {
    "checked": "2026-11-13T17:50:16+00:00",
    "location": "Hyderabad, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "924ca01e167c9fe5": {
@@ -1497,7 +1497,7 @@
   "93842ecc8f3d705b": {
    "checked": "2026-11-24T14:11:05+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "95a07b5ea556b81e": {
@@ -1527,25 +1527,25 @@
   "97cfea2e2117bc9a": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "984c982280cebd78": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Vadodara, GJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "9951c7493d822a99": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "99786a1332f2f92b": {
    "checked": "2026-11-13T17:50:12+00:00",
    "location": "Nashik, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "997f75b365402a48": {
@@ -1557,7 +1557,7 @@
   "999f18febebf8478": {
    "checked": "2026-11-13T17:49:57+00:00",
    "location": "India - Mumbai",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 1
   },
   "99bfb75165057b47": {
@@ -1593,7 +1593,7 @@
   "9ba84c0cf29aea8a": {
    "checked": "2026-11-13T17:50:21+00:00",
    "location": "Hyderabad, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "9cacf3018689d66b": {
@@ -1605,19 +1605,19 @@
   "9da184f01c7068fd": {
    "checked": "2026-11-13T17:50:03+00:00",
    "location": "Pune, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "9dd39d47f2a64656": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Texas, USA, Remote; Remote - Texas",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "9e171f14da0e9452": {
    "checked": "2026-11-17T12:21:22+00:00",
    "location": "Surat, GJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "9e2aed5647e9fed9": {
@@ -1635,7 +1635,7 @@
   "9f031accdef7deb5": {
    "checked": "2026-11-13T17:50:00+00:00",
    "location": "Mumbai, India (Hybrid)",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 15
   },
   "9f4323f0ac89db78": {
@@ -1653,19 +1653,19 @@
   "9f9d0c46b072624c": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote; San Francisco",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "a2144c65545eaedb": {
    "checked": "2026-11-19T20:54:34+00:00",
    "location": "Bellevue, WA, United States; California Remote; Colorado Remote; San Francisco, CA, United States; US Remote West Coast",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "a2e3df1d1725babf": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Georgia, USA, Remote; Atlanta; Remote - Georgia",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "a3ff837a2571cdef": {
@@ -1689,7 +1689,7 @@
   "a5b1dd1fabeb77f3": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "District of Columbia, USA, Remote; North Carolina, USA, Remote; Boston; New York; Remote - DC; Remote - North Carolina",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "a5d570ecbfd93171": {
@@ -1713,7 +1713,7 @@
   "a6a168e6f26683ce": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Chandigarh, CH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "a733d995e1258d96": {
@@ -1731,25 +1731,25 @@
   "a8096f628a8f07e2": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "India; Bangalore",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "a8593f5bcc5def66": {
    "checked": "2026-11-13T17:50:07+00:00",
    "location": "Delhi, DL, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "a8cf97fc6c9cb110": {
    "checked": "2026-11-13T17:50:14+00:00",
    "location": "Nagpur, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "a9963fce034aaf8d": {
    "checked": "2026-11-13T17:50:07+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "aa881d86a3a6efbc": {
@@ -1779,25 +1779,31 @@
   "adae2d17e0cf9b39": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "adb218455f71eac5": {
    "checked": "2026-11-13T17:50:14+00:00",
    "location": "Tiruchirappalli, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
+  },
+  "ae963f7eaf665cc7": {
+   "checked": "2026-11-26T21:49:42+00:00",
+   "location": "Srinagar, Jammu and Kashmir, India",
+   "seen": "2026-11-26T21:49:42+00:00",
+   "years": 3
   },
   "afbad16d6439345d": {
    "checked": "2026-11-13T17:50:07+00:00",
    "location": "Mumbai, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "b03d85b389cda7f9": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote; Chicago; Denver; Remote - Texas",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "b0a9aeb483366b5b": {
@@ -1815,7 +1821,7 @@
   "b1da2e8f9b8dd798": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Ranchi, JH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "b2b0a28b208ba928": {
@@ -1827,7 +1833,7 @@
   "b31defc38619dad2": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "California, USA, Remote; Remote - California; San Francisco",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "b3bafd70df2a89be": {
@@ -1839,49 +1845,49 @@
   "b3e452d0ef2c909e": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Delhi, DL, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "b4054b717df3ca64": {
    "checked": "2026-11-19T12:02:24+00:00",
    "location": "Chicago, Illinois, United States; Texas Remote; Chicago",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "b41eaede87e50cf1": {
    "checked": "2026-11-24T14:11:05+00:00",
    "location": "Mumbai, Maharashtra, India",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 4
   },
   "b50d7c6137a3590e": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Washington, USA, Remote; Atlanta; Boston; Remote - DC; Remote - Florida",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "b51702efa04d1623": {
    "checked": "2026-11-16T11:57:55+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "b5a8830a31eb6c8d": {
    "checked": "2026-11-23T13:32:20+00:00",
    "location": "Bardhaman, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "b65791f2858b0827": {
    "checked": "2026-11-13T17:50:00+00:00",
    "location": "Mumbai, Maharashtra, India",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "b6b38212e39d4925": {
    "checked": "2026-11-24T14:11:06+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "b828bb50806514c7": {
@@ -1893,7 +1899,7 @@
   "b842241ff0c891e1": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Remote - California; San Francisco, California; USCA; Remote - California",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "b9f0611b221e104d": {
@@ -1917,13 +1923,13 @@
   "bacb6b11cc48f49a": {
    "checked": "2026-11-13T17:49:59+00:00",
    "location": "Mumbai, Maharashtra, India",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "bb7d726c23e2df36": {
    "checked": "2026-11-13T17:50:14+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "bba82ed45e533280": {
@@ -1941,7 +1947,7 @@
   "bedaf979835c41a4": {
    "checked": "2026-11-13T17:50:20+00:00",
    "location": "Hazaribagh, JH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "bf8ae4f89adc287c": {
@@ -1989,7 +1995,7 @@
   "c4b6fa172a7e7289": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Jaipur, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "c4e40da11a01bace": {
@@ -2025,13 +2031,13 @@
   "c808acdd01f4ca2b": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "c8b9badc91836f2f": {
    "checked": "2026-11-13T17:50:04+00:00",
    "location": "Bareilly, UP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "c8c4856760151943": {
@@ -2079,7 +2085,7 @@
   "ccbae91b80ac29a1": {
    "checked": "2026-11-13T17:50:08+00:00",
    "location": "Udaipur, RJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "ce48205dcc85df21": {
@@ -2097,7 +2103,7 @@
   "d2141d7a9dad3980": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Guwahati, AS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "d288372c29c894c4": {
@@ -2109,19 +2115,19 @@
   "d31d14946982cfa9": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "India - Mumbai",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 6
   },
   "d35f0d1132ffdde8": {
    "checked": "2026-11-18T12:07:50+00:00",
    "location": "Vadodara, GJ, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "d376018fedbe385a": {
    "checked": "2026-11-13T17:50:04+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "d382321506ced702": {
@@ -2145,7 +2151,7 @@
   "d47553517a1ff152": {
    "checked": "2026-11-18T20:48:34+00:00",
    "location": "Visakhapatnam, AP, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "d4e6f7a7d13b1cbc": {
@@ -2169,25 +2175,25 @@
   "d719f17c5a55b0ba": {
    "checked": "2026-11-13T17:49:59+00:00",
    "location": "Gurugram, Haryana, India; Mumbai, Maharashtra, India",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "d76a43bf08a5a0c9": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "d7df5f27b5c42346": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Mumbai, India; Mumbai, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "d8038fe1dc97f1eb": {
    "checked": "2026-11-13T17:50:08+00:00",
    "location": "Tiruppur, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "d92724a9d08b9617": {
@@ -2199,7 +2205,7 @@
   "d9a308158b945b6c": {
    "checked": "2026-11-13T17:50:00+00:00",
    "location": "Bangalore, India; Mumbai, India (Hybrid)",
-   "seen": "2026-11-24T14:11:05+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "dbae4c3a47aa3d6f": {
@@ -2223,7 +2229,7 @@
   "dc2885d909398e1c": {
    "checked": "2026-11-13T17:50:05+00:00",
    "location": "Pune, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "dc51633e32f5a81e": {
@@ -2235,19 +2241,19 @@
   "dc6dc6d18ef74ce1": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bangalore, India; Bangalore",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "dc768ad1ae71edec": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Bengaluru, India; Mumbai, India; Bengaluru, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 10
   },
   "dc7c5f12cfbf01b1": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bangalore, India; Bangalore",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "dc9ee98f20200791": {
@@ -2265,7 +2271,7 @@
   "de7f5676a1497cc0": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "deb822a21cbe1946": {
@@ -2301,7 +2307,7 @@
   "e3cb169fa3a2a4bd": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 5
   },
   "e42724776ba18ccd": {
@@ -2337,13 +2343,13 @@
   "e9d8ad24ff3e20bb": {
    "checked": "2026-11-13T17:50:24+00:00",
    "location": "Bangalore, India; India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "ea47335e5730ef42": {
    "checked": "2026-11-16T11:57:55+00:00",
    "location": "Bengaluru, India; Bengaluru",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "ea73da3391d79e59": {
@@ -2373,7 +2379,7 @@
   "ede768eac144e578": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Kolkata, WB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "ee87a9b36aa33d1d": {
@@ -2391,7 +2397,7 @@
   "f089136757498b4d": {
    "checked": "2026-11-13T17:50:19+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "f15446e038222de7": {
@@ -2403,25 +2409,25 @@
   "f21d135929b384f2": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Bengaluru, India; Mumbai, India; Bengaluru, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "f23877db0a0528d2": {
    "checked": "2026-11-13T17:50:17+00:00",
    "location": "Nagercoil, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "f2f667d0bffa8fdf": {
    "checked": "2026-11-13T17:50:18+00:00",
    "location": "Ludhiana, PB, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "f301061e7fe38122": {
    "checked": "2026-11-25T13:23:34+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "f4068e2a698aed97": {
@@ -2439,13 +2445,13 @@
   "f500b6120ec0c098": {
    "checked": "2026-11-13T17:50:22+00:00",
    "location": "Bengaluru, India; Mumbai, India; Bengaluru, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "f59ed334661ae066": {
    "checked": "2026-11-16T11:57:55+00:00",
    "location": "United Kingdom, Remote; London; Remote - UK",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 7
   },
   "f6a6574dc440b236": {
@@ -2469,13 +2475,13 @@
   "f8404765ab030268": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "INDIA - MAHARASHTRA - MUMBAI",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "f888c40d3b76238c": {
    "checked": "2026-11-13T17:50:04+00:00",
    "location": "Bengaluru, KA, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": null
   },
   "f88a32250276a316": {
@@ -2487,7 +2493,7 @@
   "f8f10c589187b0d0": {
    "checked": "2026-11-13T17:49:56+00:00",
    "location": "INDIA - MAHARASHTRA - MUMBAI",
-   "seen": "2026-11-25T21:55:09+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "f8f19ce6bb9dee1b": {
@@ -2505,19 +2511,19 @@
   "f9a424bb80bec7da": {
    "checked": "2026-11-13T17:50:21+00:00",
    "location": "Kolhapur, MH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "fb457f276e20d1a8": {
    "checked": "2026-11-13T17:50:15+00:00",
    "location": "Warangal, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "fb932de49863de07": {
    "checked": "2026-11-13T17:50:08+00:00",
    "location": "Hyderabad, TS, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "fbc7e34f64130897": {
@@ -2529,7 +2535,7 @@
   "fc2809441dd993d0": {
    "checked": "2026-11-13T17:50:21+00:00",
    "location": "Chennai, TN, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 2
   },
   "fdef6ad26c77e274": {
@@ -2541,13 +2547,13 @@
   "ff3cd309cb0c6e24": {
    "checked": "2026-11-13T17:50:01+00:00",
    "location": "Deogarh, JH, India",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 0
   },
   "ffc0eafe712cf2be": {
    "checked": "2026-11-13T17:50:23+00:00",
    "location": "Maryland, USA, Remote; Virginia, USA, Remote; Remote - DC; Remote - Maryland; Remote - Virginia; Virginia; Washington, DC",
-   "seen": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T21:49:41+00:00",
    "years": 3
   },
   "fff53937618ef890": {
@@ -2559,22 +2565,22 @@
  },
  "health": {
   "amazon": {
-   "count": 237,
+   "count": 238,
    "label": "Amazon Jobs",
    "ok": true,
-   "seconds": 3.4
+   "seconds": 2.3
   },
   "ashby:Snowflake": {
-   "count": 374,
+   "count": 376,
    "label": "Snowflake",
    "ok": true,
-   "seconds": 0.3
+   "seconds": 0.2
   },
   "greenhouse:Databricks": {
-   "count": 880,
+   "count": 882,
    "label": "Databricks",
    "ok": true,
-   "seconds": 0.3
+   "seconds": 0.1
   },
   "greenhouse:Datadog": {
    "count": 391,
@@ -2583,7 +2589,7 @@
    "seconds": 0.2
   },
   "greenhouse:Elastic": {
-   "count": 379,
+   "count": 375,
    "label": "Elastic",
    "ok": true,
    "seconds": 0.2
@@ -2604,67 +2610,67 @@
    "count": 64,
    "label": "InMobi",
    "ok": true,
-   "seconds": 0.2
+   "seconds": 0.1
   },
   "greenhouse:MongoDB": {
-   "count": 422,
+   "count": 421,
    "label": "MongoDB",
    "ok": true,
    "seconds": 0.2
   },
   "greenhouse:Okta": {
-   "count": 361,
+   "count": 360,
    "label": "Okta",
    "ok": true,
-   "seconds": 0.1
+   "seconds": 0.2
   },
   "himalayas": {
-   "count": 368,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "label": "Himalayas",
-   "ok": true,
-   "seconds": 28.3
+   "ok": false
   },
   "jobicy": {
    "count": 183,
    "label": "Jobicy",
    "ok": true,
-   "seconds": 0.7
+   "seconds": 0.6
   },
   "lever:CRED": {
    "count": 10,
    "label": "CRED",
    "ok": true,
-   "seconds": 0.4
+   "seconds": 0.2
   },
   "lever:Meesho": {
-   "count": 50,
+   "count": 60,
    "label": "Meesho",
    "ok": true,
-   "seconds": 0.5
+   "seconds": 0.2
   },
   "lever:Paytm": {
-   "count": 194,
+   "count": 197,
    "label": "Paytm",
    "ok": true,
-   "seconds": 0.8
+   "seconds": 1.3
   },
   "lever:Spotify": {
    "count": 97,
    "label": "Spotify",
    "ok": true,
-   "seconds": 0.6
+   "seconds": 0.2
   },
   "lever:Zeta": {
    "count": 38,
    "label": "Zeta",
    "ok": true,
-   "seconds": 1.4
+   "seconds": 0.8
   },
   "oracle:JPMorganChase": {
-   "count": 133,
+   "count": 134,
    "label": "JPMorganChase",
    "ok": true,
-   "seconds": 4.2
+   "seconds": 5.5
   },
   "remotive": {
    "count": 16,
@@ -2676,19 +2682,19 @@
    "count": 149,
    "label": "Swiggy",
    "ok": true,
-   "seconds": 0.8
+   "seconds": 0.7
   },
   "weworkremotely": {
-   "count": 608,
+   "count": 650,
    "label": "We Work Remotely",
    "ok": true,
    "seconds": 2.5
   },
   "workable": {
-   "count": 246,
+   "count": 243,
    "label": "Workable",
    "ok": true,
-   "seconds": 34.0
+   "seconds": 34.9
   },
   "workday:3M": {
    "count": 0,
@@ -2697,10 +2703,10 @@
    "ok": false
   },
   "workday:Abbott": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 50,
    "label": "Abbott",
-   "ok": false
+   "ok": true,
+   "seconds": 2.4
   },
   "workday:AstraZeneca": {
    "count": 0,
@@ -2718,13 +2724,13 @@
    "count": 27,
    "label": "BlackRock",
    "ok": true,
-   "seconds": 0.7
+   "seconds": 2.8
   },
   "workday:Cisco": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 20,
    "label": "Cisco",
-   "ok": false
+   "ok": true,
+   "seconds": 0.5
   },
   "workday:Citi": {
    "count": 0,
@@ -2740,15 +2746,15 @@
   },
   "workday:Diageo": {
    "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "label": "Diageo",
-   "ok": true,
-   "seconds": 1.2
+   "ok": false
   },
   "workday:GSK": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 2,
    "label": "GSK",
-   "ok": false
+   "ok": true,
+   "seconds": 0.9
   },
   "workday:Gartner": {
    "count": 0,
@@ -2757,10 +2763,10 @@
    "ok": false
   },
   "workday:HP": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 8,
    "label": "HP",
-   "ok": false
+   "ok": true,
+   "seconds": 0.8
   },
   "workday:Hitachi": {
    "count": 0,
@@ -2775,10 +2781,10 @@
    "ok": false
   },
   "workday:Johnson & Johnson": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 11,
    "label": "Johnson & Johnson",
-   "ok": false
+   "ok": true,
+   "seconds": 0.3
   },
   "workday:Kimberly-Clark": {
    "count": 0,
@@ -2793,10 +2799,10 @@
    "ok": false
   },
   "workday:MSD": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 1,
    "label": "MSD",
-   "ok": false
+   "ok": true,
+   "seconds": 0.2
   },
   "workday:Maersk": {
    "count": 0,
@@ -2817,10 +2823,10 @@
    "ok": false
   },
   "workday:Mastercard": {
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 6,
    "label": "Mastercard",
-   "ok": false
+   "ok": true,
+   "seconds": 0.9
   },
   "workday:Medtronic": {
    "count": 0,
@@ -2871,10 +2877,10 @@
    "ok": false
   },
   "workday:Salesforce": {
-   "count": 31,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "label": "Salesforce",
-   "ok": true,
-   "seconds": 1.3
+   "ok": false
   },
   "workday:Sanofi": {
    "count": 0,
@@ -2913,10 +2919,10 @@
    "ok": false
   },
   "workingnomads": {
-   "count": 38,
+   "count": 37,
    "label": "Working Nomads",
    "ok": true,
-   "seconds": 0.4
+   "seconds": 0.6
   }
  },
  "jobs": {
@@ -3007,7 +3013,7 @@
    "family": "sales",
    "first_seen": "2026-11-19T12:02:30+00:00",
    "key": "01375daf2b9d9f37",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -3047,7 +3053,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "01fe6c7e97245d92",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Andheri East, Maharashtra, India",
    "places": [
@@ -3107,7 +3113,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "02b6d30ac8358139",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, MH, India",
    "places": [
@@ -3127,13 +3133,13 @@
    "family": "sales",
    "first_seen": "2026-11-21T11:38:50+00:00",
    "key": "02f422457a0cd0c9",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "INDIA - MAHARASHTRA - MUMBAI; INDIA MAHARASHTRA MUMBAI",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-16T21:54:53+00:00",
+   "posted_at": "2026-11-16T21:49:22+00:00",
    "source_id": "workday:Abbott",
    "title": "Territory Business Manager | West (Mumbai/Ahmedabad/Pune)",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/INDIA---MAHARASHTRA---MUMBAI/Territory-Business-Manager---West--Mumbai-Ahmedabad-Pune-_31167734",
@@ -3407,7 +3413,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "0a749b176bf58979",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India; Bengaluru, Karnataka, India",
    "places": [
@@ -3427,7 +3433,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "0a9917f660922b43",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -3447,7 +3453,7 @@
    "family": "admin",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "0adc2f9bf8f381cf",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -3467,7 +3473,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "0bd750bf5a169618",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra; Delhi-NCR (onsite)",
    "places": [
@@ -3621,7 +3627,7 @@
    "years": null
   },
   "101f685638cdacbb": {
-   "active": true,
+   "active": false,
    "baseline": false,
    "company": "Sweat Pants Agency",
    "family": "sales",
@@ -3847,7 +3853,7 @@
    "family": "sales",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "16499c76923cb59a",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, MH, India",
    "places": [
@@ -3887,7 +3893,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "176f85de003735f6",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra (onsite)",
    "places": [
@@ -4001,13 +4007,13 @@
    "years": null
   },
   "19394e2bbd2e43f0": {
-   "active": false,
+   "active": true,
    "baseline": false,
    "company": "GroundTruth",
    "family": "sales",
    "first_seen": "2026-11-17T12:21:28+00:00",
    "key": "19394e2bbd2e43f0",
-   "last_seen": "2026-11-25T13:23:34+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -4167,7 +4173,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "2100dfdf55e20d6b",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Remote: Asia Only",
    "places": [
@@ -4307,7 +4313,7 @@
    "family": "sales",
    "first_seen": "2026-11-19T20:54:40+00:00",
    "key": "242cb8f70a6a5117",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Remote: Asia Only",
    "places": [
@@ -4367,13 +4373,13 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "26ab1565cd9c7121",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "India > Mumbai : Mumbai Development Center - EPD",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-26T21:54:53+00:00",
+   "posted_at": "2026-10-27T21:49:22+00:00",
    "source_id": "workday:Abbott",
    "title": "Manager - Registration Management",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/India--Mumbai--Mumbai-Development-Center---EPD/Manager---Registration-Management_31157777",
@@ -4427,13 +4433,13 @@
    "family": "hr",
    "first_seen": "2026-11-25T21:55:15+00:00",
    "key": "281d407959a53335",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India; Mumbai Maharashtra India",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-23T21:54:55+00:00",
+   "posted_at": "2026-11-23T21:49:25+00:00",
    "source_id": "workday:Johnson & Johnson",
    "title": "HR Leader - DePuy Synthes",
    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mumbai-Maharashtra-India/HR-Leader---DePuy-Synthes_R-083599-1",
@@ -4547,7 +4553,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "2a83084633a43d7a",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -4587,7 +4593,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "2b20715b88c49f64",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India (hybrid)",
    "places": [
@@ -4607,7 +4613,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "2b3a4e9b19bafc78",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -4787,7 +4793,7 @@
    "family": "hr",
    "first_seen": "2026-11-24T14:11:06+00:00",
    "key": "31362de6317a2a25",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, MH, India",
    "places": [
@@ -4847,7 +4853,7 @@
    "family": "sales",
    "first_seen": "2026-11-16T11:57:56+00:00",
    "key": "31ae35cf602f3986",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; Mumbai, Maharashtra, India (remote)",
    "places": [
@@ -4968,7 +4974,7 @@
    "family": "ea",
    "first_seen": "2026-11-20T20:38:55+00:00",
    "key": "35047259145024e1",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -5068,7 +5074,7 @@
    "family": "ops",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "395d1a1e49e29fca",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -5188,7 +5194,7 @@
    "family": "hr",
    "first_seen": "2026-11-18T20:48:40+00:00",
    "key": "3aecfb99bc132ade",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -5208,7 +5214,7 @@
    "family": "sales",
    "first_seen": "2026-11-24T22:40:43+00:00",
    "key": "3b02ee487dc5bcab",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Remote: Asia Only",
    "places": [
@@ -5228,7 +5234,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "3c2991103a1f4b71",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -5288,7 +5294,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "3ee1f9db95b187ab",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -5328,7 +5334,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "3f26c082ad39c317",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Remote: Asia Only",
    "places": [
@@ -5348,7 +5354,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "3f6f50c533a8c2e4",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Navi Mumbai, Maharashtra, India",
    "places": [
@@ -5388,7 +5394,7 @@
    "family": "sales",
    "first_seen": "2026-11-14T10:49:42+00:00",
    "key": "3fbfba2af89a77e9",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, MH, India",
    "places": [
@@ -5422,13 +5428,13 @@
    "years": 2
   },
   "424e4457b3a11b41": {
-   "active": false,
+   "active": true,
    "baseline": false,
    "company": "Sweat Pants Agency",
    "family": "sales",
    "first_seen": "2026-11-16T11:57:56+00:00",
    "key": "424e4457b3a11b41",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; Chennai, Tamil Nadu, India (remote)",
    "places": [
@@ -5548,7 +5554,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "44eada8cf0db72be",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India; Bengaluru, Karnataka, India",
    "places": [
@@ -5568,7 +5574,7 @@
    "family": "ea",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "453b2b10ea7403ec",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -5608,7 +5614,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "459bfcacfd1efaf3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; Mumbai, Maharashtra, India (remote)",
    "places": [
@@ -5643,7 +5649,7 @@
    "years": null
   },
   "46147f2e90fc7e96": {
-   "active": true,
+   "active": false,
    "baseline": false,
    "company": "Johnson & Johnson",
    "family": "sales",
@@ -5689,7 +5695,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "4852c43541044719",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Remote: Asia Only",
    "places": [
@@ -5749,7 +5755,7 @@
    "family": "sales",
    "first_seen": "2026-11-25T21:55:15+00:00",
    "key": "4c63279960c844de",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; Mumbai, Maharashtra, India (remote)",
    "places": [
@@ -5770,13 +5776,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "4cfa4e394d8ef159",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "India - Mumbai",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-26T21:54:54+00:00",
+   "posted_at": "2026-10-27T21:49:23+00:00",
    "source_id": "workday:Abbott",
    "title": "Key Account Manager",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/India---Mumbai/Key-Account-Manager_31161943",
@@ -5830,7 +5836,7 @@
    "family": "ops",
    "first_seen": "2026-11-16T11:57:56+00:00",
    "key": "4f47cabccb40e246",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -5870,7 +5876,7 @@
    "family": "sales",
    "first_seen": "2026-11-25T13:23:34+00:00",
    "key": "5053bc6d488131f5",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -6050,7 +6056,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "56374fc023eb91e6",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -6250,7 +6256,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "5c270971da0ee185",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India (hybrid)",
    "places": [
@@ -6290,7 +6296,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "5cabfdb81ba2a8bc",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -6350,7 +6356,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "5dd50ab88af41898",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -6410,7 +6416,7 @@
    "family": "ops",
    "first_seen": "2026-11-26T13:02:30+00:00",
    "key": "606849d15229a1eb",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -6450,13 +6456,13 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "628b8df7044b6ad8",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "India - Mumbai",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-26T21:54:54+00:00",
+   "posted_at": "2026-10-27T21:49:23+00:00",
    "source_id": "workday:Abbott",
    "title": "Assistant Manager – Submission Publishing",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/India---Mumbai/Assistant-Manager---Submission-Publishing_31162811",
@@ -6650,7 +6656,7 @@
    "family": "ops",
    "first_seen": "2026-11-20T12:03:21+00:00",
    "key": "66409dd94032d509",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -6670,7 +6676,7 @@
    "family": "ops",
    "first_seen": "2026-11-26T13:02:30+00:00",
    "key": "66e02bb742372619",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -6750,7 +6756,7 @@
    "family": "ops",
    "first_seen": "2026-11-25T13:23:34+00:00",
    "key": "6b149883a553c17d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7072,7 +7078,7 @@
    "family": "sales",
    "first_seen": "2026-11-21T19:38:45+00:00",
    "key": "71bb9724b0c3894d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Remote: Asia Only",
    "places": [
@@ -7186,13 +7192,13 @@
    "years": 4
   },
   "739cd7b52661cd73": {
-   "active": false,
+   "active": true,
    "baseline": false,
    "company": "BreachLock",
    "family": "sales",
    "first_seen": "2026-11-14T10:49:42+00:00",
    "key": "739cd7b52661cd73",
-   "last_seen": "2026-11-25T13:23:34+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -7292,13 +7298,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "75e3fb628a09cc39",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "India - Mumbai",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-26T21:54:53+00:00",
+   "posted_at": "2026-10-27T21:49:22+00:00",
    "source_id": "workday:Abbott",
    "title": "Nutrition Sales Executive",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/India---Mumbai/Nutrition-Sales-Executive_31155636",
@@ -7353,7 +7359,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "779d5c8b317f30cb",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7373,7 +7379,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "77cb43e1aec816e1",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India (hybrid)",
    "places": [
@@ -7553,7 +7559,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "7d12d73dbc8fe4e0",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -7613,7 +7619,7 @@
    "family": "ops",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "7db9a0df7f98844f",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7673,7 +7679,7 @@
    "family": "ops",
    "first_seen": "2026-11-25T13:23:34+00:00",
    "key": "7f41a975a88f5591",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7693,7 +7699,7 @@
    "family": "ops",
    "first_seen": "2026-11-25T21:55:15+00:00",
    "key": "7f8149b11918d5ba",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7713,7 +7719,7 @@
    "family": "admin",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "7fbd873e0123ccf3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7813,7 +7819,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "82362a8262f3186d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -7833,7 +7839,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "825e54d1c9a51b71",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -7953,7 +7959,7 @@
    "family": "sales",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "83aa6116a67f8344",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -8033,7 +8039,7 @@
    "family": "sales",
    "first_seen": "2026-11-25T21:55:15+00:00",
    "key": "85e1a12547768cf6",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; Delhi, India (remote)",
    "places": [
@@ -8253,13 +8259,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "8a5efb6c34927f29",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, India (Fully Onsite)",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-17T21:54:55+00:00",
+   "posted_at": "2026-11-17T21:49:25+00:00",
    "source_id": "workday:Johnson & Johnson",
    "title": "Key Account Manager- RB Immunology - Mumbai",
    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mumbai-India/Key-Account-Manager--RB-Immunology---Mumbai_R-108944",
@@ -8273,7 +8279,7 @@
    "family": "sales",
    "first_seen": "2026-11-26T13:02:30+00:00",
    "key": "8a9bef5441f0c55e",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -8333,7 +8339,7 @@
    "family": "management",
    "first_seen": "2026-11-17T12:21:28+00:00",
    "key": "8c70d55779abbabb",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -8493,7 +8499,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "91605abbefe10196",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -8533,7 +8539,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "91c1f5c90d7cd8af",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -8693,7 +8699,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "95232c8e91c8faf3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai / Bangalore (onsite)",
    "places": [
@@ -8753,7 +8759,7 @@
    "family": "sales",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "95bd23b3c07f8cec",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -8913,7 +8919,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "977877d1cb1675ab",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9013,7 +9019,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "9b4ff3078e77142e",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9065,6 +9071,26 @@
    "url": "https://himalayas.app/companies/crop-photo/jobs/junior-product-marketing-manager?utm_source=api",
    "via": "Himalayas",
    "years": 1
+  },
+  "9becf922181843ee": {
+   "active": true,
+   "baseline": false,
+   "company": "Cisco",
+   "family": "sales",
+   "first_seen": "2026-11-26T21:49:47+00:00",
+   "key": "9becf922181843ee",
+   "last_seen": "2026-11-26T21:49:47+00:00",
+   "level": "fit",
+   "location": "2 Locations; Mumbai India",
+   "places": [
+    "mumbai"
+   ],
+   "posted_at": "2026-11-26T21:49:28+00:00",
+   "source_id": "workday:Cisco",
+   "title": "Account Executive - Architecture",
+   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Account-Executive---Architecture_2030672-1",
+   "via": "Company site",
+   "years": null
   },
   "9c9b858e07e29942": {
    "active": false,
@@ -9193,7 +9219,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "9e6143a71afe7fc9",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Goregaon, Maharashtra, India",
    "places": [
@@ -9555,7 +9581,7 @@
    "family": "management",
    "first_seen": "2026-11-18T12:07:50+00:00",
    "key": "a629bbdde27a926d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9595,7 +9621,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "a6c2905d5ca7d530",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9695,7 +9721,7 @@
    "family": "ops",
    "first_seen": "2026-11-20T20:38:55+00:00",
    "key": "a99098f116def097",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -9795,7 +9821,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ac0cada88b675c8d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9935,7 +9961,7 @@
    "family": "ea",
    "first_seen": "2026-11-25T13:23:34+00:00",
    "key": "adda7b57a0b2b78d",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -9948,14 +9974,34 @@
    "via": "Company site",
    "years": null
   },
+  "ae5e150a58e5690d": {
+   "active": true,
+   "baseline": false,
+   "company": "Johnson & Johnson",
+   "family": "sales",
+   "first_seen": "2026-11-26T21:49:47+00:00",
+   "key": "ae5e150a58e5690d",
+   "last_seen": "2026-11-26T21:49:47+00:00",
+   "level": "stretch",
+   "location": "Mumbai, India; Mumbai India",
+   "places": [
+    "mumbai"
+   ],
+   "posted_at": "2026-11-26T21:49:25+00:00",
+   "source_id": "workday:Johnson & Johnson",
+   "title": "Marketing Manager- DePuy Synthes Joint Recon & Digital",
+   "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mumbai-India/Mgr-Prod-Mgmt_R-101948",
+   "via": "Company site",
+   "years": null
+  },
   "aefe952845ad6567": {
-   "active": false,
+   "active": true,
    "baseline": false,
    "company": "CrewBloom",
    "family": "ea",
    "first_seen": "2026-11-14T10:49:42+00:00",
    "key": "aefe952845ad6567",
-   "last_seen": "2026-11-25T13:23:34+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -9975,7 +10021,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "af5ae14aab251d92",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, India (hybrid)",
    "places": [
@@ -10115,7 +10161,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "b3a7ddc9a01441d3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -10175,13 +10221,13 @@
    "family": "sales",
    "first_seen": "2026-11-21T11:38:50+00:00",
    "key": "b41eaede87e50cf1",
-   "last_seen": "2026-11-24T14:11:06+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-19T14:10:40+00:00",
+   "posted_at": "2026-11-19T21:49:28+00:00",
    "source_id": "workday:HP",
    "title": "Area Sales Manager - Print",
    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Mumbai-Maharashtra-India/Area-Sales-Manager---Print_3171083-1",
@@ -10335,7 +10381,7 @@
    "family": "ops",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "b6a104441956a41b",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -10415,7 +10461,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ba03fc0a42ca1c15",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra; Noida, Uttar Pradesh (onsite)",
    "places": [
@@ -10455,7 +10501,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ba690bf3525c52c8",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -10475,13 +10521,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "bacb6b11cc48f49a",
-   "last_seen": "2026-11-24T14:11:06+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra, India",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-25T14:10:40+00:00",
+   "posted_at": "2026-10-27T21:49:28+00:00",
    "source_id": "workday:HP",
    "title": "Commercial Account Manager",
    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Mumbai-Maharashtra-India/Commercial-Account-Manager_3169680-1",
@@ -10495,7 +10541,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "badd91fedcb358c5",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Noida, Uttar Pradesh; Bangalore, Karnataka; Pune, Maharashtra; Chennai, Tamil Nadu; Hyderabad, Telangana; Ahmedabad, Gujarat; Jaipur, Rajasthan; Delhi-NCR; Tha…",
    "places": [
@@ -10637,7 +10683,7 @@
    "family": "sales",
    "first_seen": "2026-11-19T20:54:40+00:00",
    "key": "bec3ccb4510d8b7e",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Remote: Asia Only",
    "places": [
@@ -10677,7 +10723,7 @@
    "family": "sales",
    "first_seen": "2026-11-25T21:55:15+00:00",
    "key": "bf39ad80075e08bb",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -10757,7 +10803,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "c0a22795888833a0",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -10977,7 +11023,7 @@
    "family": "sales",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "c5763d63651c407e",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -11017,7 +11063,7 @@
    "family": "hr",
    "first_seen": "2026-11-23T13:32:20+00:00",
    "key": "c5dd18db3bae49fe",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -11117,7 +11163,7 @@
    "family": "ops",
    "first_seen": "2026-11-25T13:23:34+00:00",
    "key": "c9d3b64ff5a9cce0",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, IND",
    "places": [
@@ -11197,7 +11243,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ca5df8a74c2436cf",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Panvel, Maharashtra, India",
    "places": [
@@ -11257,7 +11303,7 @@
    "family": "hr",
    "first_seen": "2026-11-17T12:21:28+00:00",
    "key": "cb83a10352b1c196",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -11457,7 +11503,7 @@
    "family": "hr",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "cf3753095dbdecd2",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Thane, Maharashtra, India",
    "places": [
@@ -11577,7 +11623,7 @@
    "family": "ops",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "d4ba808a04856977",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Navi Mumbai, Maharashtra, India",
    "places": [
@@ -11797,13 +11843,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "d9a308158b945b6c",
-   "last_seen": "2026-11-24T14:11:06+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Bangalore, India; Mumbai, India (Hybrid)",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-03T14:10:47+00:00",
+   "posted_at": "2026-11-03T21:49:28+00:00",
    "source_id": "workday:Cisco",
    "title": "Sales Business Development Manager",
    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Sales-Business-Development-Manager_2028158-1",
@@ -11957,7 +12003,7 @@
    "family": "sales",
    "first_seen": "2026-11-16T22:26:15+00:00",
    "key": "de430943b015b4b6",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai, Maharashtra (onsite)",
    "places": [
@@ -12077,7 +12123,7 @@
    "family": "sales",
    "first_seen": "2026-11-26T13:02:30+00:00",
    "key": "e0f60fc334003677",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -12211,19 +12257,19 @@
    "years": 3
   },
   "e402c1a2afdefad6": {
-   "active": false,
+   "active": true,
    "baseline": false,
    "company": "Abbott",
    "family": "ops",
    "first_seen": "2026-11-21T11:38:50+00:00",
    "key": "e402c1a2afdefad6",
-   "last_seen": "2026-11-21T11:38:50+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "India - Mumbai; India Mumbai",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-11-20T11:38:21+00:00",
+   "posted_at": "2026-11-26T21:49:24+00:00",
    "source_id": "workday:Abbott",
    "title": "Manager Supply Chain",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/India---Mumbai/Manager-Supply-Chain_31165153",
@@ -12317,7 +12363,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "e54c90b2c5154be1",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -12457,7 +12503,7 @@
    "family": "sales",
    "first_seen": "2026-11-18T12:07:50+00:00",
    "key": "e7cae6ba4412bf37",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Remote: Asia Only",
    "places": [
@@ -12697,7 +12743,7 @@
    "family": "admin",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ec20f205681770ce",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -12737,7 +12783,7 @@
    "family": "admin",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ed4ae78c3e2bc9b3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -12777,7 +12823,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ed93ef986507ee9a",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Navi Mumbai, Maharashtra, India",
    "places": [
@@ -12877,7 +12923,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "eed544d01fcac05f",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Mumbai (onsite)",
    "places": [
@@ -12917,7 +12963,7 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "f21d135929b384f2",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "Bengaluru, India; Mumbai, India; Bengaluru, India",
    "places": [
@@ -13217,7 +13263,7 @@
    "family": "ea",
    "first_seen": "2026-11-18T20:48:40+00:00",
    "key": "f7e7e6a722839260",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -13277,13 +13323,13 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "f8404765ab030268",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "INDIA - MAHARASHTRA - MUMBAI",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-26T21:54:53+00:00",
+   "posted_at": "2026-10-27T21:49:22+00:00",
    "source_id": "workday:Abbott",
    "title": "Territory Business Manager - Derma Magna - Mumbai",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/INDIA---MAHARASHTRA---MUMBAI/Territory-Business-Manager---Derma-Prime---Mumbai_31162650",
@@ -13317,13 +13363,13 @@
    "family": "management",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "f8f10c589187b0d0",
-   "last_seen": "2026-11-25T21:55:15+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "stretch",
    "location": "INDIA - MAHARASHTRA - MUMBAI",
    "places": [
     "mumbai"
    ],
-   "posted_at": "2026-10-29T21:54:53+00:00",
+   "posted_at": "2026-10-29T21:49:22+00:00",
    "source_id": "workday:Abbott",
    "title": "Therapy Business Manager- Neurolife-Mumbai (Mumbai Central)",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/INDIA---MAHARASHTRA---MUMBAI/Therapy-Business-Manager--Neurolife-Mumbai--Mumbai-Central-_31162352",
@@ -13457,7 +13503,7 @@
    "family": "hr",
    "first_seen": "2026-11-24T00:11:59+00:00",
    "key": "fba8f22578721ca5",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "TELECOMMUTE; India (remote)",
    "places": [
@@ -13497,7 +13543,7 @@
    "family": "ea",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "fd9ea4aff29f76d5",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai (onsite)",
    "places": [
@@ -13537,7 +13583,7 @@
    "family": "sales",
    "first_seen": "2026-11-13T17:53:58+00:00",
    "key": "ff8b1cb3d93506c3",
-   "last_seen": "2026-11-26T13:02:30+00:00",
+   "last_seen": "2026-11-26T21:49:47+00:00",
    "level": "fit",
    "location": "Mumbai, Maharashtra, India",
    "places": [
@@ -14409,7 +14455,45 @@
     "workday:Workday"
    ],
    "sources_ok": 26
+  },
+  {
+   "active": 324,
+   "at": "2026-11-26T21:49:47+00:00",
+   "new": 2,
+   "sources_failed": [
+    "himalayas",
+    "workday:3M",
+    "workday:AstraZeneca",
+    "workday:BD",
+    "workday:Citi",
+    "workday:Deutsche Bank",
+    "workday:Diageo",
+    "workday:Gartner",
+    "workday:Hitachi",
+    "workday:JLL",
+    "workday:Kimberly-Clark",
+    "workday:LSEG",
+    "workday:Maersk",
+    "workday:Mars",
+    "workday:Marsh McLennan",
+    "workday:Medtronic",
+    "workday:Mondelez",
+    "workday:Morgan Stanley",
+    "workday:Morningstar",
+    "workday:Nike",
+    "workday:Novartis",
+    "workday:Pfizer",
+    "workday:S&P Global",
+    "workday:Salesforce",
+    "workday:Sanofi",
+    "workday:State Street",
+    "workday:Stryker",
+    "workday:Thomson Reuters",
+    "workday:TransUnion",
+    "workday:Workday"
+   ],
+   "sources_ok": 30
   }
  ],
- "updated_at": "2026-11-26T13:02:30+00:00"
+ "updated_at": "2026-11-26T21:49:47+00:00"
 }
